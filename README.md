@@ -6,12 +6,12 @@ Project Overview:
 Data Cleaning and Processing:
 "The datasets underwent rigorous cleaning, addressing outliers and missing values. Data normalization was performed, and irrelevant columns were filtered out to ensure accurate and meaningful analysis."
 
-Key Performance Indicators (KPIs)
+Key Performance Indicators (KPIs):
 Year Wise Loan Amount Stats: Analyzed loan amounts disbursed each year to identify financial trends.
 Grade and Sub Grade Wise Revol_bal: Compared revolving balances based on loan grades and sub-grades.
 Total Payment for Verified Status Vs Total Payment for Non-Verified Status: Conducted a comparative analysis of payments made by verified and non-verified status customers.
 
-Visualization Tools and Query Languages
+Visualization Tools and Query Languages:
 Visualizations were created using Excel, Tableau, and Power BI. MySQL query language was employed for data filtering and executing specific queries."
 
 Results and Insights:
